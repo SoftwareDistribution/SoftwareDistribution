@@ -15,7 +15,7 @@
 
 <br><br>
 <h2 align="left">Stats and Info:</h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christopherbthai&show_icons=true&locale=en&layout=compact" alt="christopherbthai" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=christopherbthai&show_icons=true&locale=en" alt="christopherbthai" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SoftwareDistribution&show_icons=true&locale=en&layout=compact" alt="christopherbthai" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=christopherbthai&show_icons=true&locale=en" alt="christopherbthai" />
 
 <br><br>
 <h2 align="left">Languages and Tools:</h2>
